@@ -1,0 +1,10 @@
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\bin\Debug\Ch4_Problem_16.exe.config
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\bin\Debug\Ch4_Problem_16.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\bin\Debug\Ch4_Problem_16.pdb
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\bin\Debug\Ch4_Problem_16.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.Form1.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.Resources.resources
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.vbproj.GenerateResource.cache
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.exe
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.xml
+C:\Users\Henri\Desktop\VisualBasic\Chapter_4\Ch4_Problem_16\obj\Debug\Ch4_Problem_16.pdb
